@@ -1,0 +1,10 @@
+opencv-python
+numpy>=2.1.0
+tensorflow
+keras
+scikit-learn
+matplotlib
+pandas
+pyttsx3
+keyboard
+ultralytics # if using MMPose
